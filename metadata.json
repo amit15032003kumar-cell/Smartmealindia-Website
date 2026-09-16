@@ -1,0 +1,6 @@
+{
+  "name": "Smartmealindia",
+  "description": "Smart fitness and watch companion tracker for water intake, walking & running workouts, and live heartbeat and heart rate monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
